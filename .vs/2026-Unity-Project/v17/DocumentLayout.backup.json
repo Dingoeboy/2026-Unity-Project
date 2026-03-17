@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\30139493\\documents\\github\\2026-unity-project\\assets\\scripts\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\30139493\\documents\\github\\2026-unity-project\\assets\\scripts\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\30139493\\documents\\github\\2026-unity-project\\assets\\scripts\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\30139493\\documents\\github\\2026-unity-project\\assets\\scripts\\datastructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datastructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\assets\\scripts\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\assets\\scripts\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\assets\\scripts\\ifstatements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Loops.cs",
-              "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\Loops.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Loops.cs",
-              "ToolTip": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\Loops.cs*",
-              "RelativeToolTip": "Assets\\scripts\\Loops.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\FileManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FileManager.cs",
+              "ToolTip": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\FileManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\FileManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T02:12:29.789Z",
+              "WhenOpened": "2026-03-17T03:28:47.966Z",
               "EditorCaption": ""
             },
             {
@@ -47,7 +55,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "DataStructures.cs",
+              "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\DataStructures.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DataStructures.cs",
+              "ToolTip": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\DataStructures.cs",
+              "RelativeToolTip": "Assets\\scripts\\DataStructures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:16:11.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loops.cs",
+              "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\Loops.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Loops.cs",
+              "ToolTip": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\Loops.cs",
+              "RelativeToolTip": "Assets\\scripts\\Loops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T02:12:29.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IfStatements.cs",
               "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\IfStatements.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\IfStatements.cs",
@@ -59,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Methods.cs",
               "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\Methods.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Methods.cs",
@@ -71,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Operators.cs",
               "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\Operators.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Operators.cs",
@@ -79,8 +112,7 @@
               "RelativeToolTip": "Assets\\scripts\\Operators.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T02:53:38.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T02:53:38.593Z"
             }
           ]
         }

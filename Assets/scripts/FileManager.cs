@@ -8,10 +8,15 @@ public class FileManager : MonoBehaviour
     public string[] textFileContents; // this will be the array that holds the file content
     void Start()
     {
-        
+
+        textFileName = "myData";//this will be the filename
+        CreateNewTextFile(textFileName); //calling function i wrote myself 
     }
 
-   
+    /// <summary>
+    /// This function creates a new file at a loction if it dosen't already exist and then has input as file name
+    /// </summary>
+    /// <param name="fileName"></param>
     public void CreateNewTextFile(string fileName)
     {
         // create a file path string for the full path on that specfic computer
