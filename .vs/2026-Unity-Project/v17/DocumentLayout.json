@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\30139493\\documents\\github\\2026-unity-project\\assets\\datafiles\\mydata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\datafiles\\mydata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\assets\\scripts\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\30139493\\documents\\github\\2026-unity-project\\assets\\scripts\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\30139493\\documents\\github\\2026-unity-project\\assets\\datafiles\\mydata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\datafiles\\mydata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\assets\\scripts\\datastructures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "myData.txt",
               "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\DataFiles\\myData.txt",
               "RelativeDocumentMoniker": "Assets\\DataFiles\\myData.txt",
@@ -55,20 +59,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FileManager.cs",
               "DocumentMoniker": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\FileManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\FileManager.cs",
               "ToolTip": "C:\\Users\\30139493\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\FileManager.cs",
               "RelativeToolTip": "Assets\\scripts\\FileManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T03:28:47.966Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
