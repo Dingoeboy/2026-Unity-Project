@@ -62,7 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\IfStatements.cs" />
+    <Compile Include="Assets\scripts\Components\Component9a2.cs" />
     <Compile Include="Assets\scripts\Methods.cs" />
+    <Compile Include="Assets\scripts\Components\Components9a1.cs" />
     <Compile Include="Assets\scripts\Strings.cs" />
     <Compile Include="Assets\scripts\Loops.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
