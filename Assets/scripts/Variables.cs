@@ -3,7 +3,7 @@ using UnityEngine;
 public class Variables : MonoBehaviour
 {
     public string playerName = "Gordon Freeman";
-    public float countDownTimer = 30;
+    public float countDownTimer = 30f;
     public bool  gameOver = false;
     public int ammoValue = 5;
 
@@ -14,7 +14,7 @@ public class Variables : MonoBehaviour
         Debug.Log(playerName);
         Debug.Log(countDownTimer);
         Debug.Log(ammoValue);
-        Debug.Log(countDownTimer);
+        Debug.Log(gameOver);
     }
 
     // Update is called once per frame
