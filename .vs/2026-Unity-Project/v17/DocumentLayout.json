@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\bryce\\OneDrive\\Documents\\GitHub\\2026-Unity-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\bryce\\onedrive\\documents\\github\\2026-unity-project\\assets\\scripts\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\bryce\\onedrive\\documents\\github\\2026-unity-project\\assets\\scripts\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|c:\\users\\bryce\\onedrive\\documents\\github\\2026-unity-project\\assets\\scripts\\topic10_carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|C:\\Users\\bryce\\OneDrive\\Documents\\GitHub\\2026-Unity-Project\\assets\\scripts\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|C:\\Users\\bryce\\OneDrive\\Documents\\GitHub\\2026-Unity-Project\\assets\\scripts\\topic10_carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E5C1DBB-0437-44A3-CCE6-DB931D482766}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topic10_carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Operators.cs",
               "DocumentMoniker": "C:\\Users\\bryce\\OneDrive\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\Operators.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Operators.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "Assets\\scripts\\Operators.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T10:03:07.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T10:03:07.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Variables.cs",
               "DocumentMoniker": "C:\\Users\\bryce\\OneDrive\\Documents\\GitHub\\2026-Unity-Project\\Assets\\scripts\\Variables.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Variables.cs",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Assets\\scripts\\Topic10_CarClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T02:05:22.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T02:05:22.865Z"
             },
             {
               "$type": "Document",

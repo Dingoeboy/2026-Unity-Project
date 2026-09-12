@@ -2,7 +2,7 @@ using NUnit.Framework;
 using System.Collections.Generic;
 using System.Globalization;
 using UnityEngine;
-using static UnityEngine.LowLevelPhysics2D.PhysicsLayers;
+using static Unity.U2D.Physics.PhysicsLayers;
 
 public class DataStructures : MonoBehaviour   
 {
